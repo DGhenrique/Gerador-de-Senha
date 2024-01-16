@@ -10,7 +10,7 @@ Abra o arquivo index.html em seu navegador preferido.
 Ajuste as configurações conforme necessário e clique no botão "Gerar Senha".
 Copie a senha gerada e utilize-a conforme necessário.
 
-**Tecnologias usadas:**
+**Tecnologias usadas**
 
 HTML: Estruturação do conteúdo.
 
