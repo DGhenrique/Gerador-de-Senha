@@ -12,7 +12,7 @@ Ajuste as configurações conforme necessário e clique no botão "Gerar Senha".
 Copie a senha gerada e utilize-a conforme necessário.
 
 
-**<h3>Tecnologias usadas<h3>**
+**<h3>Tecnologias usadas:<h3>**
 
 HTML: Estruturação do conteúdo.
 
